@@ -34,7 +34,12 @@
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=go,postgres,sqlite,redis" />
+  <img src="https://skillicons.dev/icons?i=go,postgres,sqlite,mongodb" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-1F6FEB?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
 ### **DevOps & Tools**
