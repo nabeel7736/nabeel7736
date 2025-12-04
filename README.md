@@ -63,7 +63,7 @@
 ### 📊 Admin Dashboard • Analytics • Users • Bookings • Movies/Shows
 
 <p align="center">
-  <img width="70%" src="https://github.com/user-attachments/assets/8d14bd87-d052-49ef-b6f0-844e3fe11b2b" alt="Cineverse Dashboard" />
+  <img width="70%" src="https://github.com/user-attachments/assets/a94344e3-d61c-422e-bc14-605330ca16fa" alt="Cineverse Dashboard" />
 </p>
 
 <p align="center">
