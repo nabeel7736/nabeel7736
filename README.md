@@ -105,7 +105,7 @@
 <p align="center">
   <!-- GitHub Streak Stats -->
   <img 
-    src="https://streak-stats.demolab.com/?user=nabeel7736&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com/?user=Nabeel-mp&theme=tokyonight&hide_border=true" 
     height="180" 
     alt="GitHub Streak" 
   />
